@@ -3,6 +3,7 @@ Questions:
 1. Is hotel revenue growing by year?
 2. Should we increase parking lot size?
 3. What trends can we see in the data? 
+
 Results:
 1. The hotel revenue is growing by year.
 2. Parking lot size does not require size increase.
